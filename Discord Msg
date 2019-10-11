@@ -3,4 +3,4 @@
   with:
     webhook_id: ${{ The Guardian }}
     webhook_token: ${{ https://discordapp.com/api/webhooks/632169783856594954/taXd0AoylU9ISPcRm1oFFr42MGl2r10vz_pwaYb_4ftNErJbnwHo8C3BX0_EFzJyYxNK }}
-    message: The ${{ github.event_name }} event triggered first step.
+    message: The ${{ hi }} event triggered first step.
